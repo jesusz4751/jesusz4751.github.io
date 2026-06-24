@@ -1,17 +1,17 @@
 # site settings
-title: Forty
+title: Jesus Zarate
 subtitle: by HTML5 UP
-email: youremailaddress@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
+email: jesuseduardoz.4751@gmail.com
+description: Computer Science student at California State University <br /> Stanislaus interested in working in Information Technology
 baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
+street_address: ""
+city: Turlock
+state: CA
+zip_code: 95382
 country: United States of America
-phone: (716) 555-5555
+phone: (209) 417-4411
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
@@ -38,7 +38,7 @@ sass:
   style: compressed
 
 exclude:
-- "*.gemspec"
-- LICENSE.md
-- CONTRIBUTING.md
-- README.md 
+  - "*.gemspec"
+  - LICENSE.md
+  - CONTRIBUTING.md
+  - README.md
