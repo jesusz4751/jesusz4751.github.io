@@ -3,8 +3,8 @@ title: Jesus Zarate
 subtitle: by HTML5 UP
 email: jesuseduardoz.4751@gmail.com
 description: Computer Science student at California State University <br /> Stanislaus interested in working in Information Technology
-baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
-url: # the base hostname & protocol for your site
+url: "https://jesusz4751.github.io"
+baseurl: ""
 author:
 street_address: ""
 city: Turlock
