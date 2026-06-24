@@ -1,12 +1,11 @@
 # site settings
 title: Jesus Zarate
-subtitle: by HTML5 UP
+subtitle:
 email: jesuseduardoz.4751@gmail.com
 description: Computer Science student at California State University <br /> Stanislaus interested in working in Information Technology
 url: "https://jesusz4751.github.io"
 baseurl: ""
 author:
-street_address: ""
 city: Turlock
 state: CA
 zip_code: 95382
@@ -22,12 +21,12 @@ tiles-count: 6
 # Icons are not shown if value is empty
 # You need to restart jekyll for changes to have an effect
 socials:
-  GitHub: https://github.com/andrewbanchich
+  GitHub: https://github.com/jesusz4751
   GitLab:
-  Google-Plus: https://plus.google.com/u/0/+AndrewBanchich
+  Google-Plus:
   Instagram:
-  LinkedIn: https://www.linkedin.com/in/andrew-banchich-a4ba1195
-  Twitter: https://twitter.com/andrewbanchich
+  LinkedIn: https://www.linkedin.com/in/jesus-zarate06
+  Twitter:
   Facebook:
   Slack:
 
