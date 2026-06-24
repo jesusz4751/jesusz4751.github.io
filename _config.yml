@@ -29,6 +29,7 @@ socials:
   Twitter:
   Facebook:
   Slack:
+  Envelope: mailto:jesuseduardoz.4751@gmail.com
 
 # build settings
 markdown: kramdown
