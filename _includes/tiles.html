@@ -4,7 +4,11 @@
 <section id="one" class="tiles">
   {% assign sorted_pages = tiles | sort:"order" %} {% for tile in sorted_pages
   limit:site.tiles-count %}
-  <article>
+  {% if forloop.last %}
+    <article class="full-width">
+  {% else %}
+    <article>
+  {% endif %}
     <span class="image">
       <img src="{{ tile.image }}" alt="{{ tile.title }}" />
     </span>
