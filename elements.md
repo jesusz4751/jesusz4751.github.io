@@ -2,8 +2,8 @@
 layout: page
 title: Elements
 image: assets/images/pic01.jpg
-nav-menu: true
-order: 5
+nav-menu: false
+order: 8
 ---
 
 <!-- Main -->

@@ -1,10 +1,10 @@
 ---
 layout: landing
-title: Experience
-description: Work experience and skills
+title: Certifications and Skills
+description: Professional Certifications and Technologies
 image: assets/images/pic11.jpg
 nav-menu: true
-order: 2
+order: 3
 ---
 
 <!-- Main -->
