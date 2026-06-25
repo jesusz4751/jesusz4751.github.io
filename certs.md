@@ -1,8 +1,8 @@
 ---
 layout: landing
-title: Certifications and Skills
+title: Certifications and Technologies
 description: Professional Certifications and Technologies
-image: assets/images/pic11.jpg
+image: assets/images/certifications.jpg
 nav-menu: true
 order: 3
 ---

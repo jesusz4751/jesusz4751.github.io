@@ -2,7 +2,7 @@
 layout: landing
 title: Experience
 description: Work experience and skills
-image: assets/images/pic11.jpg
+image: assets/images/experience.jpg
 nav-menu: true
 order: 2
 ---
