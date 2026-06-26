@@ -71,3 +71,9 @@ img {
   object-fit: cover;
   object-position: top;
 }
+.post-image img {
+  max-height: 500px;
+  width: 100%;
+  object-fit: cover;
+  object-position: top;
+}

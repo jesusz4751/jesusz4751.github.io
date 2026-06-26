@@ -2,5 +2,5 @@
 layout: post
 title: Draft
 description: This is a draft
-image: assets/images/headshot.jpg
+image: assets/images/posts/example1.jpg
 ---
