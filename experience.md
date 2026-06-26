@@ -33,12 +33,12 @@ order: 2
           <h4>California State University, Stanislaus</h4>
           <h5> June 2025 - Present</h5>
 				</header>
-				<ul>
-          <li><b>Academic Support:</b> Provide personalized guidance to students navigating academic challenges.</li>
-          <li><b>Operations:</b> Oversee asset management and inventory for the ASPIRE program.</li>
-          <li><b>Program Development:</b> Facilitated a 2-week summer STEM immersion program for incoming students.</li>
-          <li><b>Community Leadership:</b> Organize and execute campus-wide workshops and STEM-focused events.</li>
-        </ul>
+					<ul>
+						<li><b>Academic Support:</b> Provide personalized guidance to students navigating academic challenges.</li>
+						<li><b>Operations:</b> Oversee asset management and inventory for the ASPIRE program.</li>
+						<li><b>Program Development:</b> Facilitated a 2-week summer STEM immersion program for incoming students.</li>
+						<li><b>Community Leadership:</b> Organize and execute campus-wide workshops and STEM-focused events.</li>
+					</ul>
 			</div>
 		</div>
 	</section>
@@ -53,11 +53,11 @@ order: 2
           <h4>California State University, Stanislaus</h4>
           <h5> August 2024 - May 2026</h5>
 				</header>
-				<ul>
-          <li><b>Data Science:</b> Conducted social network analysis on large-scale misinformation datasets.</li>
-          <li><b>Dataset Engineering:</b> Curated and cleaned datasets by extracting political fact-check data.</li>
-          <li><b>Scholarship:</b> Authored research currently pending publication at the international ASONAM conference.</li>
-        </ul>
+					<ul>
+						<li><b>Data Science:</b> Conducted social network analysis on large-scale misinformation datasets.</li>
+						<li><b>Dataset Engineering:</b> Curated and cleaned datasets by extracting political fact-check data.</li>
+						<li><b>Scholarship:</b> Authored research currently pending publication at the international ASONAM conference.</li>
+					</ul>
 				<p>Learn more about this on my Research Page</p>
 				<ul class="actions">
 					<li><a href="research.html" class="button">Learn more</a></li>
@@ -76,10 +76,12 @@ order: 2
           <h4>Turlock Unified School District</h4>
           <h5> June 2023 - August 2023</h5>
 				</header>
-          <li><b>Deployment:</b> Configured and deployed Windows devices across 12+ school sites via Microsoft Endpoint Configuration Manager.</li>
-					<li><b>Lifecycle Management:</b> Audited and updated hardware inventory to replace obsolete equipment.</li>
-          <li><b>Technical Support:</b> Resolved end-user hardware and software issues.</li>
-          <li><b>Hardware Repair:</b> Performed maintenance and repairs on defective student Chromebooks.</li>
+					<ul>
+						<li><b>Deployment:</b> Configured and deployed Windows devices across 12+ school sites via Microsoft Endpoint Configuration Manager.</li>
+						<li><b>Lifecycle Management:</b> Audited and updated hardware inventory to replace obsolete equipment.</li>
+						<li><b>Technical Support:</b> Resolved end-user hardware and software issues.</li>
+						<li><b>Hardware Repair:</b> Performed maintenance and repairs on defective student Chromebooks.</li>
+					</ul>
 			</div>
 		</div>
 	</section>

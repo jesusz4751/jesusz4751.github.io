@@ -10,91 +10,92 @@ order: 3
 <!-- Main -->
 <div id="main">
 
-<!-- One -->
-<section id="one">
-	<div class="inner">
-		<header class="major">
-			<h2>Overview</h2>
-		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna.</p>
-	</div>
-</section>
-
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
 		<a class="image">
-			<img src="{% link assets/images/aspire_team.jpg %}" alt="" data-position="center center" />
+			<img src="{% link assets/images/security+.webp %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>STEM Peer Mentor</h3>
-          <h4>California State University, Stanislaus</h4>
-          <h5> June 2025 - Present</h5>
+					<h3>CompTIA Security+ (SY0-701)</h3>
+					<h5>Issued January 2026</h5>
 				</header>
-				<ul>
-          <li><b>Academic Support:</b> Provide personalized guidance to students navigating academic challenges.</li>
-          <li><b>Operations:</b> Oversee asset management and inventory for the ASPIRE program.</li>
-          <li><b>Program Development:</b> Facilitated a 2-week summer STEM immersion program for incoming students.</li>
-          <li><b>Community Leadership:</b> Organize and execute campus-wide workshops and STEM-focused events.</li>
-        </ul>
+					<ul>
+						<li><b>Threats, Attacks, & Vulnerabilities: </b>Identification and mitigation of network-level exploits, malware, and social engineering vectors.</li>
+						<li><b>Architecture & Design: </b>Implementation of secure network topologies, virtualization security, and cloud infrastructure best practices.</li>
+						<li><b>Implementation: </b>Deployment of secure protocols, cryptography (PKI), and wireless security measures to protect enterprise data.</li>
+						<li><b>Operations & Incident Response: </b>Application of digital forensics, incident response workflows, and risk management strategies.</li>
+						<li><b>Governance, Risk, & Compliance: </b>Adherence to organizational security policies, privacy regulations, and risk assessment frameworks.</li>
+					</ul>
+					<ul class="actions">
+						<li><a href="https://JesusZarate.short.gy/comptia-sec" target="_blank" class="button">View Certification</a></li>
+					</ul>
 			</div>
 		</div>
 	</section>
 	<section>
 		<a class="image">
-			<img src="{% link assets/images/research.jpg %}" alt="" data-position="top center" />
+			<img src="{% link assets/images/tryhackme.png %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Research Intern</h3>
-          <h4>California State University, Stanislaus</h4>
-          <h5> August 2024 - May 2026</h5>
+					<h3>TryHackMe Cyber Security 101</h3>
+          <h5>Issued July 2025</h5>
 				</header>
-				<ul>
-          <li><b>Data Science:</b> Conducted social network analysis on large-scale misinformation datasets.</li>
-          <li><b>Dataset Engineering:</b> Curated and cleaned datasets by extracting political fact-check data.</li>
-          <li><b>Scholarship:</b> Authored research currently pending publication at the international ASONAM conference.</li>
-        </ul>
-				<p>Learn more about this on my Research Page</p>
-				<ul class="actions">
-					<li><a href="research.html" class="button">Learn more</a></li>
-				</ul>
-			</div>
-		</div>
-	</section>
-	<section>
-		<a class="image">
-			<img src="{% link assets/images/tusd.webp %}" alt="" data-position="top center" />
-		</a>
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>IT Support Intern</h3>
-          <h4>Turlock Unified School District</h4>
-          <h5> June 2023 - August 2023</h5>
-				</header>
-          <li><b>Deployment:</b> Configured and deployed Windows devices across 12+ school sites via Microsoft Endpoint Configuration Manager.</li>
-					<li><b>Lifecycle Management:</b> Audited and updated hardware inventory to replace obsolete equipment.</li>
-          <li><b>Technical Support:</b> Resolved end-user hardware and software issues.</li>
-          <li><b>Hardware Repair:</b> Performed maintenance and repairs on defective student Chromebooks.</li>
+					<ul>
+						<li><b>Network Fundamentals: </b>Applied foundational knowledge of TCP/IP stack protocols, including practical experience with addressing and packet flow.</li>
+						<li><b>Core Services: </b>Gained hands-on experience configuring and troubleshooting DNS resolution processes.</li>
+						<li><b>Secure Communications: </b>Implemented VPN tunnels to establish encrypted remote access and secure data transmission channels.</li>
+						<li><b>Perimeter Defense: </b>Configured firewall rules and policies to control inbound/outbound traffic and mitigate unauthorized access.</li>
+						<li><b>Infrastructure Analysis: </b>Analyzed LAN and WAN configurations to identify potential architectural vulnerabilities and optimize network segmentation.</li>
+					</ul>
+					<ul class="actions">
+						<li><a href="https://tryhackme.com/certificate/THM-NYEXR1H0ZM" target="_blank" class="button">View Certification</a></li>
+					</ul>
 			</div>
 		</div>
 	</section>
 </section>
 
-<!-- Three -->
 <section id="three">
 	<div class="inner">
 		<header class="major">
-			<h2>Skills and Certifications</h2>
+			<h2>Tools and Technologies</h2>
 		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.</p>
-		<ul class="actions">
-			<li><a href="generic.html" class="button next">Get Started</a></li>
-		</ul>
+		<section>
+			<h3>Systems and Operations</h3>
+			<ul>
+						<li><b>Microsoft Environment: </b>Microsoft Endpoint Configuration Manager (MECM), Windows OS Administration, and Enterprise Hardware Troubleshooting.</li>
+						<li><b>Linux & Containers: </b>Proficiency in Linux environments, Docker, and Kubernetes for orchestrating data pipelines.</li>
+						<li><b>IT Lifecycle: </b>System imaging, deployment, and comprehensive asset inventory management.</li>
+					</ul>
+		</section>
+		<section>
+			<h3>Systems and Operations</h3>
+			<ul>
+						<li><b>Network Fundamentals: </b>TCP/IP, DNS, LAN/WAN configurations, and firewall/VPN management.</li>
+						<li><b>Security Practices: </b>Threat mitigation, incident response, secure network architecture, and vulnerability patch management.</li>
+						<li><b>Cloud Infrastructure: </b>Experience with AWS services, specifically S3 and CloudFront.</li>
+					</ul>
+		</section>
+		<section>
+			<h3>Software, Data & Development</h3>
+			<ul>
+						<li><b>Languages: </b>Python, Java, and JavaScript.</li>
+						<li><b>Database & Analysis: </b>MongoDB for dynamic data storage and Excel for advanced data analysis and inventory tracking.</li>
+						<li><b>Development Tools: </b>Git/GitHub for version control and API integration (Google Maps, PolitiFact, and X).</li>
+					</ul>
+		</section>
+		<section>
+			<h3>Professional Skills</h3>
+			<ul>
+						<li><b>Technical Support: </b>Tier 1/2 enterprise support, Peripheral Configuration, and Mobile Device Management (MDM).</li>
+						<li><b>Communication: </b>Professional-level proficiency in English and Spanish; experienced in translating complex technical concepts into accessible guidance for peer groups.</li>
+					</ul>
+		</section>
 	</div>
 </section>
 
