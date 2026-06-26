@@ -1,9 +1,4 @@
 <!doctype html>
-<!--
-    Forty by HTML5 UP
-    html5up.net | @ajlkn
-    Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-  -->
 <html>
   {% include head.html %}
 
@@ -28,15 +23,38 @@
       <section id="one">
         <div class="inner">
           {% for post in site.posts %} {% if post.title != 404 %}
-          <header class="major">
-            <h1>{{ post.title }}</h1>
-          </header>
-          {% if post.image %}<span class="image main"
-            ><img src="{{ site.baseurl }}/{{ post.image }}" alt="" /></span
-          >{% endif %} {% if post.date %}
-          <p>{{ post.date }}</p>
+
+          <!-- Image first -->
+          {% if post.image %}
+          <span class="image main post-preview">
+            <img src="{{ site.baseurl }}/{{ post.image }}" alt="" />
+          </span>
           {% endif %}
-          <p>{{ post.content }}</p>
+
+          <!-- Title -->
+          <header class="major">
+            <h2>{{ post.title }}</h2>
+          </header>
+
+          <!-- Date -->
+          {% if post.date %}
+          <p><strong>Published:</strong> {{ post.date | date: "%B %d, %Y" }}</p>
+          {% endif %}
+
+          <!-- Description -->
+          <p>{{ post.description }}</p>
+
+          <!-- Link/Button placeholder -->
+          <ul class="actions">
+            <li>
+              <a href="{{ post.url | relative_url }}" class="button"
+                >Read More</a
+              >
+            </li>
+          </ul>
+
+          <hr />
+          <!-- Adds a visual separator between posts -->
           {% endif %} {% endfor %}
         </div>
       </section>
