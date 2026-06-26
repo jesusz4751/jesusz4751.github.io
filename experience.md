@@ -16,7 +16,7 @@ order: 2
 		<header class="major">
 			<h2>Overview</h2>
 		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna.</p>
+		<p>As a Computer Science major with a 3.9 GPA, I am dedicated to bridging the gap between theoretical research and practical, infrastructure-level IT and cybersecurity solutions. My experience spans from managing large-scale hardware deployments in educational environments to performing social network analysis and mentoring peers in STEM. Below is a summary of my professional journey, where I translate academic principles into robust, real-world technical impact</p>
 	</div>
 </section>
 
@@ -91,9 +91,9 @@ order: 2
 		<header class="major">
 			<h2>Skills and Certifications</h2>
 		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.</p>
+		<p>Interested in learning more about my professional certifications and technologies? Visit my Certifications and Technologies page to learn more!</p>
 		<ul class="actions">
-			<li><a href="generic.html" class="button next">Get Started</a></li>
+			<li><a href="certs.html" class="button next">Click here</a></li>
 		</ul>
 	</div>
 </section>
