@@ -54,9 +54,9 @@ order: 2
           <h5> August 2024 - May 2026</h5>
 				</header>
 					<ul>
-						<li><b>Data Science:</b> Conducted social network analysis on large-scale misinformation datasets.</li>
-						<li><b>Dataset Engineering:</b> Curated and cleaned datasets by extracting political fact-check data.</li>
-						<li><b>Scholarship:</b> Authored research currently pending publication at the international ASONAM conference.</li>
+						<li><b>Data Science:</b> Conducted in-depth analysis of social media networks to identify how misinformation spreads across large online communities</li>
+						<li><b>Dataset Engineering:</b> Managed and organized large collections of data by extracting and cleaning political fact-check information to ensure high accuracy.</li>
+						<li><b>Research Execution:</b> Designed and performed experiments to test network stability, gaining deep experience in the scientific research process.</li>
 					</ul>
 				<p>Learn more about this on my Research Page</p>
 				<ul class="actions">
