@@ -69,10 +69,10 @@ We finished configuring our router! Our last step is to copy our running configu
 
 <img src="/assets/images/posts/image_1784135233832.png" width="auto" alt="image_1784135233832.png">
 
-If we go back to our network, we see that the two lines connected to the router are green. That means everything is working properly and traffic can pass through the router. Congratulations! Now it's time to configure the switch and all end devices to complete the network.
+If we go back to our network, we see that the two lines connected to the router are green. That means everything is working properly and traffic can pass through the router. Congratulations! Now it's time to configure the Class-B switch.
 
 <img src="/assets/images/posts/image_1784135293729.png" width="auto" alt="image_1784135293729.png">
-## Step 2: Configure the Switch and End Devices
+## Step 2: Configure the Switch
 Configuration for the switch will be essentially the same as the router. This lab locks the switch labeled Class-A, so the only switch we will be configuring is Class-B. Log onto the switch and enter administrative mode. Since it's the first time it's been opened, there isn't a password. In configuration mode, change the name to Class-B, give the switch an appropriate banner, enable passwords for the CLI and privileged mode, and encrypt passwords. The commands are the same as on the router.
 
 <img src="/assets/images/posts/image_1784218479675.png" width="auto" alt="image_1784218479675.png">
