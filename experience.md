@@ -22,7 +22,30 @@ order: 2
 
 <!-- Two -->
 <section id="two" class="spotlights">
+	<!-- Copy and paste from here when adding job -->
+		<!-- Copy this section right below and edit this section between the comments -->
 	<section>
+		<a class="image">
+			<img src="{% link assets/images/commons.jpg %}" alt="" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Learning Commons Front Desk</h3>
+          <h4>California State University, Stanislaus</h4>
+          <h5> September 2026 - Present</h5>
+				</header>
+					<ul>
+						<li><b>Technical Support:</b> Provide tier-1 troubleshooting and platform guidance for StanTutor, resolving student booking issues via phone, email, and in-person support.</li>
+						<li><b>Issue Escalation:</b> Triage system and service issues, escalating to supervisors when necessary to ensure timely resolution and minimal downtime.</li>
+						<li><b>Communication:</b> Serve as the front-line point of contact for a high-traffic academic support center, managing a high volume of concurrent student inquiries in a fast-paced environment.</li>
+						<li><b>Operations:</b> Maintain accurate records through data entry and electronic filing systems to support department efficiency.</li>
+					</ul>
+			</div>
+		</div>
+	</section>
+	<!-- End job copy -->
+		<section>
 		<a class="image">
 			<img src="{% link assets/images/aspire_team.jpg %}" alt="" data-position="center center" />
 		</a>
@@ -57,6 +80,7 @@ order: 2
 						<li><b>Data Science:</b> Conducted in-depth analysis of social media networks to identify how misinformation spreads across large online communities</li>
 						<li><b>Dataset Engineering:</b> Managed and organized large collections of data by extracting and cleaning political fact-check information to ensure high accuracy.</li>
 						<li><b>Research Execution:</b> Designed and performed experiments to test network stability, gaining deep experience in the scientific research process.</li>
+						<li><b>Publication:</b> Published research findings at the international IEEE/ACM ASONAM (Advances in Social Networks Analysis and Mining) conference.</li>
 					</ul>
 				<p>Learn more about this on my Research Page</p>
 				<ul class="actions">
